@@ -1,0 +1,24 @@
+{
+  "name": "ADM Academy — Curso Completo de Administração",
+  "short_name": "ADM Academy",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#667eea",
+  "theme_color": "#667eea",
+  "description": "Plataforma completa de estudo de Administração.",
+  "icons": [
+    {
+      "src": "icone.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icone.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
